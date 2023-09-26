@@ -1,0 +1,960 @@
+fileFormatVersion: 2
+guid: a8ec7fcd566c95f4199d9ab59e6f2756
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2029869744927904876
+    second: Pixel Art Pou - copia_0
+  - first:
+      213: -8198948585391895982
+    second: Pixel Art Pou - copia_1
+  - first:
+      213: -2479691374729218773
+    second: Pixel Art Pou - copia_2
+  - first:
+      213: -5450476473998148689
+    second: Pixel Art Pou - copia_3
+  - first:
+      213: 303402227605920286
+    second: Pixel Art Pou - copia_4
+  - first:
+      213: 1846855584009232084
+    second: Pixel Art Pou - copia_5
+  - first:
+      213: 5796357278282306448
+    second: Pixel Art Pou - copia_6
+  - first:
+      213: -7813868923541103857
+    second: Pixel Art Pou - copia_7
+  - first:
+      213: 5319981950770676711
+    second: Pixel Art Pou - copia_8
+  - first:
+      213: 3093845069801231207
+    second: Pixel Art Pou - copia_9
+  - first:
+      213: 6518216353102279574
+    second: Pixel Art Pou - copia_10
+  - first:
+      213: -6833817283922960071
+    second: Pixel Art Pou - copia_11
+  - first:
+      213: 2877991231875508904
+    second: Pixel Art Pou - copia_12
+  - first:
+      213: -1233647392667591667
+    second: Pixel Art Pou - copia_13
+  - first:
+      213: -2955208389619666019
+    second: Pixel Art Pou - copia_14
+  - first:
+      213: -6182324671715280595
+    second: Pixel Art Pou - copia_15
+  - first:
+      213: 3098803534815150484
+    second: Pixel Art Pou - copia_16
+  - first:
+      213: 4442340864308675108
+    second: Pixel Art Pou - copia_17
+  - first:
+      213: -6680364915823467198
+    second: Pixel Art Pou - copia_18
+  - first:
+      213: 117559517280579226
+    second: Pixel Art Pou - copia_19
+  - first:
+      213: -6354173353659326350
+    second: Pixel Art Pou - copia_20
+  - first:
+      213: 4626123922590671309
+    second: Pixel Art Pou - copia_21
+  - first:
+      213: -2683782309698605888
+    second: Pixel Art Pou - copia_22
+  - first:
+      213: 6160233140643344321
+    second: Pixel Art Pou - copia_23
+  - first:
+      213: -3428323271224910226
+    second: Pixel Art Pou - copia_24
+  - first:
+      213: 6175685123265985614
+    second: Pixel Art Pou - copia_25
+  - first:
+      213: -7700185654050644637
+    second: Pixel Art Pou - copia_26
+  - first:
+      213: -8025880530610571028
+    second: Pixel Art Pou - copia_27
+  - first:
+      213: -7984081685773582780
+    second: Pixel Art Pou - copia_28
+  - first:
+      213: -8244515855690271449
+    second: Pixel Art Pou - copia_29
+  - first:
+      213: 3330235995372669940
+    second: Pixel Art Pou - copia_30
+  - first:
+      213: -5508149350017268742
+    second: Pixel Art Pou - copia_31
+  - first:
+      213: 7950617916888435367
+    second: Pixel Art Pou - copia_32
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1008
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b6241c83474d3e0800000000000000
+      internalID: -2029869744927904876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1008
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a460493bb773e80800000000000000
+      internalID: -8198948585391895982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 993
+        width: 216
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b253aa825dd569dd0800000000000000
+      internalID: -2479691374729218773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1008
+        width: 217
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab77b656840c54b0800000000000000
+      internalID: -5450476473998148689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1008
+        width: 217
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a5380f7b6e53400800000000000000
+      internalID: 303402227605920286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_5
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1008
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de115c5e5951a910800000000000000
+      internalID: 1846855584009232084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_6
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1008
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0935443fb3cc07050800000000000000
+      internalID: 5796357278282306448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_7
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1008
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b5eda1d9f8f8390800000000000000
+      internalID: -7813868923541103857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_8
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1008
+        width: 216
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e30d23d56f54d940800000000000000
+      internalID: 5319981950770676711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_9
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 984
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7639897f2bb8fea20800000000000000
+      internalID: 3093845069801231207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_10
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1001
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693bdc7fc3b557a50800000000000000
+      internalID: 6518216353102279574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 960
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931e8db23676921a0800000000000000
+      internalID: -6833817283922960071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 960
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aae0a2f6cda0f720800000000000000
+      internalID: 2877991231875508904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 960
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c16f58b3431eee0800000000000000
+      internalID: -1233647392667591667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 960
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93377380adfcf6d0800000000000000
+      internalID: -2955208389619666019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_15
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 960
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29f6486778f33aa0800000000000000
+      internalID: -6182324671715280595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 960
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491c1619569210b20800000000000000
+      internalID: 3098803534815150484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_17
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 960
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4220254ca7d56ad30800000000000000
+      internalID: 4442340864308675108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 912
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2452c5ec0839a43a0800000000000000
+      internalID: -6680364915823467198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 912
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ea97312c7a1a100800000000000000
+      internalID: 117559517280579226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 913
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27022ed200171d7a0800000000000000
+      internalID: -6354173353659326350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 912
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc124f4823b433040800000000000000
+      internalID: 4626123922590671309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 912
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccefe7653a41cad0800000000000000
+      internalID: -2683782309698605888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 913
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfa2a1376b8d7550800000000000000
+      internalID: 6160233140643344321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_24
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 683
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e1f6b16262c60d0800000000000000
+      internalID: -3428323271224910226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_25
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 683
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cfee046e074b550800000000000000
+      internalID: 6175685123265985614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_26
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 672
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d90c9e1f1732590800000000000000
+      internalID: -7700185654050644637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 369
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8bb3b2e285e9090800000000000000
+      internalID: -8025880530610571028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_28
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 369
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e73cd1208d23190800000000000000
+      internalID: -7984081685773582780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_29
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 369
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7257184b288959d80800000000000000
+      internalID: -8244515855690271449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_30
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 55
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb48625eff573e20800000000000000
+      internalID: 3330235995372669940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_31
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 44
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af30c6e795f1f83b0800000000000000
+      internalID: -5508149350017268742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Pou - copia_32
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 33
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aacdf80fd4465e60800000000000000
+      internalID: 7950617916888435367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pixel Art Pou - copia_17: 4442340864308675108
+      Pixel Art Pou - copia_28: -7984081685773582780
+      Pixel Art Pou - copia_18: -6680364915823467198
+      Pixel Art Pou - copia_6: 5796357278282306448
+      Pixel Art Pou - copia_14: -2955208389619666019
+      Pixel Art Pou - copia_19: 117559517280579226
+      Pixel Art Pou - copia_2: -2479691374729218773
+      Pixel Art Pou - copia_32: 7950617916888435367
+      Pixel Art Pou - copia_13: -1233647392667591667
+      Pixel Art Pou - copia_7: -7813868923541103857
+      Pixel Art Pou - copia_15: -6182324671715280595
+      Pixel Art Pou - copia_12: 2877991231875508904
+      Pixel Art Pou - copia_31: -5508149350017268742
+      Pixel Art Pou - copia_25: 6175685123265985614
+      Pixel Art Pou - copia_4: 303402227605920286
+      Pixel Art Pou - copia_16: 3098803534815150484
+      Pixel Art Pou - copia_29: -8244515855690271449
+      Pixel Art Pou - copia_23: 6160233140643344321
+      Pixel Art Pou - copia_20: -6354173353659326350
+      Pixel Art Pou - copia_11: -6833817283922960071
+      Pixel Art Pou - copia_3: -5450476473998148689
+      Pixel Art Pou - copia_8: 5319981950770676711
+      Pixel Art Pou - copia_27: -8025880530610571028
+      Pixel Art Pou - copia_30: 3330235995372669940
+      Pixel Art Pou - copia_5: 1846855584009232084
+      Pixel Art Pou - copia_22: -2683782309698605888
+      Pixel Art Pou - copia_0: -2029869744927904876
+      Pixel Art Pou - copia_9: 3093845069801231207
+      Pixel Art Pou - copia_10: 6518216353102279574
+      Pixel Art Pou - copia_26: -7700185654050644637
+      Pixel Art Pou - copia_21: 4626123922590671309
+      Pixel Art Pou - copia_24: -3428323271224910226
+      Pixel Art Pou - copia_1: -8198948585391895982
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
